@@ -3,12 +3,6 @@
 Pump.fun is a decentralized exchange for Solana NFTs and tokens. It is a fast, easy-to-use and secure NFT and token trading platform. Pump.fun is a platform designed for people to launch, mint, and trade new tokens, and it comes with a high level of risk. Tokens launched on Pump can be traded immediately and there will be no delays in minting. While it ensures a fair launch with no pre-sales or insider advantages, the stakes are still high. People can throw away their coins at any time, and often do.
 
 
-
-## Code demonstration video 📀
-
-https://github.com/milkersman/pumpcow-pumpfun-bot/assets/167958821/058d2d99-c37e-43a0-9aca-a5b032adcb63
-
-
 ### 💊 Buy
 
 - Enter the token address specifying the SOL amount to purchase tokens
